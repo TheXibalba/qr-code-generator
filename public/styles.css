@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --b-color: #53B8BB;
+  --t-color:#ffffff;
+
+}
+
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10% auto;
+  background-color: var(--b-color);
+  height: 10rem;
+  width: 20rem;
+  color: var(--t-color);
+  font-weight: bold;
+}
+
+.form-group button{
+margin: 0.5rem 1rem;
+
+}
+
+.main-container-gen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10% auto;
+    background-color: var(--b-color);
+    flex-direction: column;
+ width:20rem;
+ padding: 1rem;
+    font-weight: bold;
+  }
+
+
+.main-container-gen h2{
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: var(--t-color);
+}
