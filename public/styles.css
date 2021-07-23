@@ -35,9 +35,10 @@
   margin: 10% auto;
   background-color: var(--b-color);
   flex-direction: column;
-  width: 20rem;
+  width: 22rem;
   padding: 1rem;
   font-weight: bold;
+
 }
 
 .main-container-gen h2 {
