@@ -19,8 +19,13 @@
   font-weight: bold;
 }
 
+.form-group{
+  width:100%;
+  text-align: center;
+}
 .form-group button {
-  margin: 0.5rem 1rem;
+  margin: 0.5rem auto;
+  padding: 0.3rem ;
 }
 
 .main-container-gen {
@@ -40,3 +45,5 @@
   margin-bottom: 1rem;
   color: var(--t-color);
 }
+
+
