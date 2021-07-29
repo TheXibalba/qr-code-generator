@@ -1,5 +1,5 @@
 # qr-code-generator
-This is a simple QR Code generated which generates the QR Code of any data that is given to it. It works in a standalone manner and does not require any external API for QR Code generation.
+This is a simple QR Code generater which generates the QR Code of any textual data that is given to it. It works in a standalone manner and does not require any external API for QR Code generation.
 
 To get it up and running, 
 1. Make sure you have Node.JS installed on your system.
